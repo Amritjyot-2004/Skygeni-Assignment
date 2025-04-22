@@ -1,0 +1,33 @@
+Q: How many finance lending and blockchain clients does the organization have?
+Number of Finance Lending clients: 22
+Number of Blockchain clients: 25
+
+
+Q: Which industry has highest renewal rate?
+Gaming has highest renewal rate of 0.73
+
+
+
+Q: What was the average inflation rate when their subscriptions were renewed?
+The average inflation rate when their subscriptions were renewed was 4.47
+
+
+Q: What is the median amount paid each year for all payment methods?
+Following is the median amount paid each year for all payment methods:
+
+Years	Payment Methods	   Median Amount
+2018	Bank Transfer	   281.65
+2018	Check		   216.60
+2018	Credit Card	   229.15
+2019	Bank Transfer	   184.20
+2019	Check		   410.20
+2019	Credit Card	   401.90
+2020	Bank Transfer	   225.10
+2020	Check	           413.10
+2020	Credit Card	   285.25
+2021	Bank Transfer	   255.30
+2021	Check	           435.10
+2021	Credit Card	   208.70
+2022	Bank Transfer	   196.50
+2022	Check		   275.50
+2022	Credit Card	   326.20
